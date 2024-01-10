@@ -16,9 +16,6 @@
 
 
 + 📖 实现文本嵌入模型，为知识问答提供上下文
-
-
-+ 🦜️ 支持大规模语言模型开发工具 [`langchain` ](https://github.com/hwchase17/langchain) 的各类功能
  
 
 + 🙌 只需要简单的修改环境变量即可将开源模型作为 `chatgpt` 的替代模型，为应用提供后端支持
@@ -45,6 +42,7 @@
 ## 🐼 Todo
 + 接入离线大模型
 + 多线程调用
++ 🦜️ 支持大规模语言模型开发工具 [`langchain` ](https://github.com/hwchase17/langchain) 的各类功能
 
 
 ## 🚧 References
